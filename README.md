@@ -5,4 +5,5 @@
 
 ## 🌦 Weather Forecast App using Search by City/Country location (by Tushar)
 
-![Weather App UI,use current location ]()
+![Weather App UI,use current location ](https://github.com/user-attachments/assets/c2759476-e789-4bd9-9fff-9603dfe798f2)
+
